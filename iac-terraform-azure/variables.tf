@@ -1,6 +1,6 @@
 variable "azurerm_resource_group_name" {
     type = string
-    default = "iac-terraform-azure-EM"
+    default = "azure-functions-EM"
   
 }
 
